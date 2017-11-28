@@ -2,7 +2,7 @@
 
 This repo houses the standards that apply to all content in the MyPureCloud Github group.
 
-* [README.md Guidelines and Template](readme-template.md)
+* [README.md Guidelines and Template](readme-standards.md)
 
 
 # Additional Information
