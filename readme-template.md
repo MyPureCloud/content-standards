@@ -85,7 +85,7 @@ _TODO: provide boilerplate for these items_
 
 Provide information about the following topics:
 
-* Provide at least one method of contact external to Github for contacting the maintainers. This can be a person or group's email, a link to a specific topic or category on the developer forum, or any alternatives for external developers to get help outside of using Github issues.
+* If possible, provide at least one method of contact external to Github for contacting the maintainers. This can be a person or group's email, a link to a specific topic or category on the developer forum, or any alternatives for external developers to get help outside of using Github issues.
 * If PRs are accepted from the public. If yes, provide guidelines for PR submissions
 * If issues are accepted via Github issues (turn the feature off if not)
 * State the license and link to the repo's license (should be in `/LICENSE`)
