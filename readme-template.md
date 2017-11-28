@@ -39,11 +39,17 @@ If any documentation exists outside of the readme, link to it here. This include
 
 # Table of Contents
 
-For documents longer than 100 lines, provide a TOC linking headings 1-3 excluding the title and TOC. Example:
+For documents longer than 100 lines, provide a TOC linking headings 1-3 excluding headings before the TOC. Example:
 
 * [Getting Started](#getting-started)
   * [TL;DR](#tldr)
   * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
+  * [Configuration](#configuration)
+  * [Usage](#usage)
+* [Additional Information](#additional-information)
+
+_Pro-tip: Use this chrome extension to generate TOCs for you! Clone the repo and add the `src` directory as an unpacked extension. https://github.com/PrinceNebulon/GithubTocGenerator_
 
 
 # Getting Started
@@ -83,6 +89,3 @@ Provide information about the following topics:
 * If PRs are accepted from the public. If yes, provide guidelines for PR submissions
 * If issues are accepted via Github issues (turn the feature off if not)
 * State the license and link to the repo's license (should be in `/LICENSE`)
-
-
-
