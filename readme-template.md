@@ -49,7 +49,7 @@ For documents longer than 100 lines, provide a TOC linking headings 1-3 excludin
   * [Usage](#usage)
 * [Additional Information](#additional-information)
 
-_Pro-tip: Use this chrome extension to generate TOCs for you! Clone the repo and add the `src` directory as an unpacked extension. https://github.com/PrinceNebulon/GithubTocGenerator_
+_Pro-tip: Use this chrome extension to generate TOCs for you! Clone the repo and add the `src` directory as an [unpacked extension](https://developer.chrome.com/extensions/getstarted#unpacked). https://github.com/PrinceNebulon/GithubTocGenerator_
 
 
 # Getting Started
