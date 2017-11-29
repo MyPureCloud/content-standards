@@ -11,7 +11,7 @@ Repo owners are responsible for:
 
 * General repo oversight
 * Content governance
-* Ensuring SLAs are met
+* Monitoring activity reports and ensuring SLAs are met
 
 
 ### Maintainer
@@ -20,7 +20,8 @@ Repo maintainers are responsible for:
 
 * Managing github issues
 * Managing pull requests
-* Ensuring content standards are met before merging PR
+* Ensuring content standards are met before merging PRs
+* Monitoring activity reports and taking action when necessary
 
 
 ### Contributor
