@@ -10,7 +10,7 @@ This repo houses the standards that apply to all content in the MyPureCloud Gith
 * Must serve a specific purpose for the PureCloud community
 * Must have good documentation
 * Must clearly identify maintainers (point of contact for issues/questions)
-* Must have [approval from Genesys legal](legal-approval.md) and include an appropriate license (usually MIT)
+* Must include an appropriate license (usually MIT)
 * Must be maintained according to the [maintenance standards](maintenance-standards.md)
 * Should be listed on the [Open Source Index](https://developer.mypurecloud.com/opensource/) by having a valid [ossindex.json](https://developer.mypurecloud.com/opensource/ossindex-data-file.html) file in the repo
 
@@ -28,7 +28,6 @@ This repo houses the standards that apply to all content in the MyPureCloud Gith
 
 * [README.md Guidelines and Template](readme-standards.md)
 * [Maintenance Standards](maintenance-standards.md)
-* [Genesys Legal Approval](legal-approval.md)
 
 
 # Additional Information
